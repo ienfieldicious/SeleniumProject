@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite 1" verbose="1" >
+  <test name="Test 4" >
+  
+     
+      <classes>
+      <class name="test.java.Test1"/>
+      </classes>
+      
+      
+ </test>
+</suite>
+
+
+
