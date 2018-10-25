@@ -13,8 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.eclipse.jetty.util.ArrayTernaryTrie.Growing;
 import org.testng.annotations.Test;
 
-import main.java.com.myhomepractice.projecttwo.Test.PricingPage;
-import main.java.com.myhomepractice.projecttwo.Test.UtilityFunction;
+import pages.java.PricingPage;
 
 
 public class Test4 extends PricingPage

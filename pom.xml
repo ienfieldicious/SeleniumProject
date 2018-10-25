@@ -6,12 +6,12 @@
     <version>2.4-SNAPSHOT</version>
     <packaging>jar</packaging>
     
-<!--    <properties>
+		<!--<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <suiteXmlFile>testng.xml</suiteXmlFile>
-    </properties>-->
+    	</properties>-->
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -8,8 +8,7 @@ package test.java;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
 
-import main.java.com.myhomepractice.projecttwo.Test.SecondPage;
-import main.java.com.myhomepractice.projecttwo.Test.UtilityFunction;
+import pages.java.SecondPage;
 
 
 public class Test2 extends SecondPage

@@ -1,0 +1,5 @@
+appUrl=https://wordpress.com/
+
+ChromeDriverKey=webdriver.chrome.driver
+
+ChromeDriverValue=D:\\selenium\\chromedriver.exe

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <suite name="Suite 1" verbose="1" >
-  <test name="Test 4" >
+  <test name="Test 5" >
   
      
       <classes>
-      <class name="test.java.Test1"/>
+      <class name="test.java.Test5"/>
       </classes>
       
       
